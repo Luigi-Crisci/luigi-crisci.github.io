@@ -4,8 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Hi, I'm Luigi and I'm a Computer Science student at University of Salerno.  
-Currently I'm following a Master course about *Cloud Computing*, which is my main focus now but I have also interest in distributed computing, algorithms and operating systems.  
+Hi, I'm Luigi and I'm a Computer Science student at University of Salerno 🏫.  
+I've a bachelor degree and currently I'm following a Master course about *Cloud Computing*, which is my main focus now but I have also interest in distributed computing, algorithms and operating systems.  
+In this site you'll find a bunch of things that I've done in my life, information about teaching activity and probably a lot of random stuff 🐲 
 
 Other than a job, Computer Science is a passion that follows me since I got my first computer 15 years ago and became part of who I am now. This makes me a very curious and enterprising person, always ready to learn something new, but also a very dedicated person who is not afraid of working hard to achieve his objectives. 
 
