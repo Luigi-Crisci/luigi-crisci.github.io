@@ -3,8 +3,6 @@ layout: page
 title: Tutoring
 permalink: /tutoring/
 ---
-# Tutoring
-
 In this page you will find a list of tutoring activity I've held during my years at university, with some useful materials.
 
 ***N.B.:*** Microsoft Teams links and materials are only avalible to authenticated users. 
