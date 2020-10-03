@@ -1,7 +1,7 @@
 ---
-	layout: page
-	title: Tutoring
-	permalink: /tutoring/
+layout: page
+title: Tutoring
+permalink: /tutoring/
 ---
 # Tutoring
 
