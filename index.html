@@ -3,6 +3,21 @@ layout: default
 ---
 
 <div class="posts">
+  <h1>Welcome</h1>
+<p align="center"> 
+  In this section you'll find posts about various topic
+  Hope you'll enjoy my work 🖤 
+</p>
+
+<hr>
+
+{% if paginator.posts == 0 %} 
+    <p align="center"> Currently there are no post here, but I'm working on them 🔨 </p>
+
+<h1 class="posts">
+
+
+  {% else %}
   {% for post in paginator.posts %}
     <article class="post">
       <a href="{{ site.baseurl }}{{ post.url }}">
@@ -46,4 +61,5 @@ layout: default
     {% endif %}
   </div>
   {% endif %}
-</div>
+  {% endif %}
+</h1>
