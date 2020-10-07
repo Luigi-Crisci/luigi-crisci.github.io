@@ -54,7 +54,7 @@ enforce_ssl: http://www.luigi-crisci.github.io
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: "/luigi-crisci.github.io"
 
-posts: 0
+check_posts: 0
 
 #
 # !! You don't need to change any of the configuration flags below !!
