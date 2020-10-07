@@ -14,9 +14,9 @@ aaaa
 {% if site.posts == 0 %} 
     <p align="center"> Currently there are no post here, but I'm working on them 🔨 </p>
 
+    {% else %}
 <h1 class="posts">
 
-  {% else %}
   {% for post in paginator.posts %}
     <article class="post">
       <a href="{{ site.baseurl }}{{ post.url }}">
