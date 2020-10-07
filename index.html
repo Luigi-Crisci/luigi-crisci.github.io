@@ -5,17 +5,16 @@ layout: default
 <div class="posts">
   <h1>Welcome</h1>
 <p align="center"> 
-  In this section you'll find posts about various topic
+  In this section you'll find posts about various topic <br>
   Hope you'll enjoy my work 🖤 
 </p>
 
 <hr>
 
-{% if paginator.posts == 0 %} 
+{% if paginator.total_pages == 0 %} 
     <p align="center"> Currently there are no post here, but I'm working on them 🔨 </p>
 
 <h1 class="posts">
-
 
   {% else %}
   {% for post in paginator.posts %}
