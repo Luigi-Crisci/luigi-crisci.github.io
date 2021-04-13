@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tutoring
-permalink: /tutoring/
+permalink: /tutoring
 ---
 In this page you will find a list of tutoring activity I've held during my years at university, with some useful materials.
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about
 ---
 
 Hi, I'm Luigi and I'm a Computer Science student at Università degli studi di Salerno 🏫.  
